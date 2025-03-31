@@ -51,9 +51,14 @@ export const Perfil = () => {
                 </ProyectoCard>
                 </section>
             </div>
-            <div id="sobre_mi" className="mx-auto w-[100%] ">
-                <h1 className="text-gray-200 text-center text-2xl mt-[3rem]">Sobre mi</h1>
-                <hr className="w-[50%] mt-1 mb-5 mx-auto text-gray-500" />
+            <div id="sobre_mi" className="mx-auto w-[100%] ml-[3rem] py-[4rem]">
+                <h1 className="text-gray-200 text-start text-2xl ">Sobre mi</h1>
+                <hr className="w-[30%] mt-1 mb-5 text-gray-500" />
+                <p className="text-white mt-3 lg:w-[80%] text-[15px] md:text-[17px] w-[80%] sm:w-[90%] tracking-wide">
+                            Soy un programador autodidacta con conocimientos tanto del lado del cliente como del servidor, actualmente 
+                            estoy aprendiendo el framework NESTJS para incorporar en el backend mediante el uso de Typescript. Soy una persona dedicada y comprometida
+                            en los trabajos y metas que me propongo. Y siempre estoy buscando e practicando sobre mejores practicas, codigo escalable y legible.
+                        </p>
             </div>
         </section>
     )
