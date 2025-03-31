@@ -27,7 +27,7 @@ export const Perfil = () => {
                 <a target="_blank" href="">
                 <div className="flex gap-1 items-center border p-2 rounded-4xl">
                     <img src="/email.svg" className="w-[20px]" alt="" />
-                    <p>francomiralles94@gmail.com</p>
+                    <p>francomiralles98@gmail.com</p>
                 </div>
                 </a>
                 <a target="_blank" href="">
