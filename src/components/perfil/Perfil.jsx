@@ -18,19 +18,17 @@ export const Perfil = () => {
                 </div>
             </div>
             <section className="pt-[3rem] gap-2 flex flex-wrap justify-center text-white">
-                <a target="_blank" href="">
+                <a target="_blank" href="https://www.linkedin.com/in/franco-miralles-640112236/">
                 <div className="flex gap-1 items-center border p-2 rounded-4xl">
                     <img src="/linkedin.svg" className="w-[20px]" alt="" />
                     <p>Linkedin</p>
                 </div>
                 </a>
-                <a target="_blank" href="">
                 <div className="flex gap-1 items-center border p-2 rounded-4xl">
                     <img src="/email.svg" className="w-[20px]" alt="" />
                     <p>francomiralles98@hotmail.com</p>
                 </div>
-                </a>
-                <a target="_blank" href="">
+                <a target="_blank" href="https://github.com/FrancoMiralles98">
                 <div className="flex gap-1 items-center border p-2 rounded-4xl">
                     <img src="/github_3.svg" className="w-[20px]" alt="" />
                     <p>Mi GitHub</p>
