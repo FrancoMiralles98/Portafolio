@@ -11,7 +11,7 @@ export const Perfil = () => {
                         <h1 className="text-4xl font-light text-[#FFFFFF] self-center">Franco Miralles</h1>
                         <h3 className="text-[#FFD700]  mt-2 text-xl">Desarrollador Backend y Frontend</h3>
                         <p className="text-white mt-3 lg:w-[80%] text-[15px] md:text-[17px] w-[80%] sm:w-[90%] tracking-wide">
-                            Holaa, soy un desarrollador con conocimiento tanto en el frontend como en el backend, especialmente usando Javascript y el STACK MERN ( MongoDB, REact, Express, Node),
+                            Holaa, soy un desarrollador con conocimiento tanto en el frontend como en el backend, especialmente usando Javascript y el STACK MERN ( MongoDB, React, Express, Node),
                             aunque mi foco es más en el trabajo del lado del servidor.
                         </p>
                     </div>
