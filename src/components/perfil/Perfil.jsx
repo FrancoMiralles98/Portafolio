@@ -11,8 +11,8 @@ export const Perfil = () => {
                         <h1 className="text-4xl font-light text-[#FFFFFF] self-center">Franco Miralles</h1>
                         <h3 className="text-[#FFD700]  mt-2 text-xl">Desarrollador Backend y Frontend</h3>
                         <p className="text-white mt-3 lg:w-[80%] text-[15px] md:text-[17px] w-[80%] sm:w-[90%] tracking-wide">
-                            Holaa, soy un desarrollador con conocimiento tanto en el frontend como en el backend, especialmente usando Javascript,
-                            aunque mi foco es más en el trabajo del lado del servidor, me encanta aprender y conocer nuevas cosas.
+                            Holaa, soy un desarrollador con conocimiento tanto en el frontend como en el backend, especialmente usando Javascript y el STACK MERN ( MongoDB, REact, Express, Node),
+                            aunque mi foco es más en el trabajo del lado del servidor.
                         </p>
                     </div>
                 </div>
@@ -74,8 +74,8 @@ export const Perfil = () => {
                 <hr className="w-[30%] mt-1 mb-5 text-gray-500" />
                 <p className="text-white mt-3 lg:w-[80%] text-[15px] md:text-[17px] w-[80%] sm:w-[90%] tracking-wide">
                     Soy un programador autodidacta con conocimientos tanto del lado del cliente como del servidor, actualmente
-                    estoy aprendiendo el framework NESTJS para incorporar en el backend mediante el uso de Typescript. Soy una persona dedicada y comprometida
-                    en los trabajos y metas que me propongo. Siempre estoy buscando y practicando para mejorar mi codigo.
+                    estoy aprendiendo y desarrollando con el framework NESTJS, para incorporar en el backend mediante el uso de Typescript
+                    en los trabajos y metas que me estoy proponiendo.
                 </p>
             </div>
         </section>
