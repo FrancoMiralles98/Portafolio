@@ -75,7 +75,7 @@ export const Perfil = () => {
                 <p className="text-white mt-3 lg:w-[80%] text-[15px] md:text-[17px] w-[80%] sm:w-[90%] tracking-wide">
                     Soy un programador autodidacta con conocimientos tanto del lado del cliente como del servidor, actualmente
                     estoy aprendiendo el framework NESTJS para incorporar en el backend mediante el uso de Typescript. Soy una persona dedicada y comprometida
-                    en los trabajos y metas que me propongo. Y siempre estoy buscando e practicando sobre mejores practicas, codigo escalable y legible.
+                    en los trabajos y metas que me propongo. Siempre estoy buscando y practicando para mejorar mi codigo.
                 </p>
             </div>
         </section>
