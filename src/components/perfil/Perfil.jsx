@@ -6,7 +6,6 @@ export const Perfil = () => {
         <section>
             <div className="flex pt-[3rem]">
                 <div className="w-full mt-6 pl-[3rem] sm:flex  grid">
-                    <img src="./foto.png" className="h-[240px]" alt="Foto_Perfil" />
                     <div className="sm:pl-3 lg:mt-4">
                         <h1 className="text-4xl font-light text-[#FFFFFF] self-center">Franco Miralles</h1>
                         <h3 className="text-[#FFD700]  mt-2 text-xl">Desarrollador Backend y Frontend</h3>
