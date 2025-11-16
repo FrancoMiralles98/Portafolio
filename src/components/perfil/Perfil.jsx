@@ -39,7 +39,7 @@ export const Perfil = () => {
                 <hr className="w-[50%] mt-1 mb-5 mx-auto text-gray-500" />
                 <section className="grid gap-y-[4rem]">
                     <ProyectoCard
-                        link={"https://frontend-netin2.vercel.app/"}
+                        link={"https://netim2.com/"}
                         description={"Es un videojuego de navegador basado en turnos, inspirado en un MMORPG, con logins, CRUDs, validaciones con una base de datos, compra y venta de objetos, progresión de personajes, bastante entretenido."}
                         title={"Netim2"}
                         icon={"/netim2.ico"}
